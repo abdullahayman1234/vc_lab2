@@ -5,8 +5,12 @@ remotly : git push origin  :div
 to delete test branch : 
 locaaly :  git branch -d test
 remotly : git push origin  :test
-<<<<<<< HEAD
-=======
-:
->>>>>>> origin/master
-![Screenshot](./image/beautiful-view-sunset-sea.jpg)
+2- tell me how to checkout another branch without commit changes : 
+3- tell me how to list tags : 
+to list all tags use git tags
+4-tell me hpw to delete tag locally and remotly : 
+remote : git push origin --delete tagname
+locaaly : git tag -d tagname 
+![Code Screenshot](./image/beautiful-view-sunset-sea.jpg)/;wq
+:wq
+`
