@@ -1,0 +1,7 @@
+1 - tell me how to remove them locally and remotly : 
+to delete div branch : 
+locaaly :  git branch -d div
+remotly : git push origin  :div
+to delete test branch : 
+locaaly :  git branch -d test
+remotly : git push origin  :test
