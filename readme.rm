@@ -11,4 +11,4 @@ to list all tags use git tags
 4-tell me hpw to delete tag locally and remotly : 
 remote : git push origin --delete tagname
 locaaly : git tag -d tagname 
-![CHEESE!](beautiful-view-sunset-sea.jpg)
+![name](beautiful-view-sunset-sea.jpg)
