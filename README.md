@@ -1,16 +1,17 @@
-1 - tell me how to remove them locally and remotly : 
+# tell me how to remove them locally and remotly : 
 to delete div branch : 
 locaaly :  git branch -d div
 remotly : git push origin  :div
 to delete test branch : 
 locaaly :  git branch -d test
 remotly : git push origin  :test
-2- tell me how to checkout another branch without commit changes : 
-3- tell me how to list tags : 
+# tell me how to checkout another branch without commit changes : 
+fff
+# tell me how to list tags : 
 to list all tags use git tags
-4-tell me hpw to delete tag locally and remotly : 
+# tell me hpw to delete tag locally and remotly : 
 remote : git push origin --delete tagname
 locaaly : git tag -d tagname 
-#
+# add image 
 ![name](beautiful-view-sunset-sea.jpg)
-#
+
