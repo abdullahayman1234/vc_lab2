@@ -5,4 +5,8 @@ remotly : git push origin  :div
 to delete test branch : 
 locaaly :  git branch -d test
 remotly : git push origin  :test
+<<<<<<< HEAD
+=======
+:
+>>>>>>> origin/master
 ![Screenshot](./image/beautiful-view-sunset-sea.jpg)
