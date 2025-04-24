@@ -6,3 +6,4 @@ to delete test branch :
 locaaly :  git branch -d test
 remotly : git push origin  :test
 :
+![Image](https://github.com/user-attachments/assets/ee4bcd91-85a6-4781-b70b-86b99f6c88d4)
